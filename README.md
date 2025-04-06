@@ -7,6 +7,8 @@ It’s designed to provide developers, site builders, and administrators with a 
 🧭 **Live Preview**  
 👉 [ricardocastaneda.github.io/drupal-admin-interface-map](https://ricardocastaneda.github.io/drupal-admin-interface-map/)
 
+![Preview of the Drupal Admin Interface Map](https://ricardocastaneda.github.io/drupal-admin-interface-map/preview.png)
+
 ---
 
 ## Features
